@@ -1,5 +1,5 @@
-                                            
-                                        <h1 align="center">Hi 👋, I'm Nitish Kumar Srivastava</h1>
+                                              
+                                               Hi 👋, I'm Nitish Kumar Srivastava
 <h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niths2703&label=Profile%20views&color=0e75b6&style=flat" alt="niths2703" /> </p>
