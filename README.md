@@ -1,7 +1,4 @@
- Hi 👋 , I'm Nitish Kumar Srivastava
-
-
-**niths2703/niths2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                           Hi 👋 , I'm Nitish Kumar Srivastava
 
 
 
