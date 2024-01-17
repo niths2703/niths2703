@@ -13,11 +13,9 @@ mathematical insights and algorithms.</h3>
 
 - 🔭 I’m currently working on **SpringBoot Applications**
 
-- 🌱 I’m currently learning **Java Backend at Masai School**
-
 - 👯 I’m looking to collaborate on **Github and LinkedIn**
 
-- 💬 Ask me about **JAVA | SpringBoot**
+- 💬 Ask me about **JAVA | SpringBoot | MicoServices**
 
 - 📫 How to reach me **nsrivastava230@gmail.com**
 
