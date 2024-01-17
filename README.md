@@ -1,5 +1,5 @@
                                               
-<h1 align="center"> Hi. I am Nitish Kumar Srivastava</h1>
+<h1 align="center"> Hi. 👋 I am Nitish Kumar Srivastava</h1>
 <h3 align="center">Dedicated and detail-oriented Java backend developer having
 proficiency in Java, Mysql, Hibernate, Springboot, Rest API,
 RestAssured, TestNG, CSS, HTML, and Javascript. Eager to apply Java
