@@ -19,7 +19,7 @@ mathematical insights and algorithms.</h3>
 
 - 📫 How to reach me **nsrivastava230@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/10jKXYWfCwlt5zSyP2fpds6paUMsuAWwr](https://drive.google.com/drive/folders/10jKXYWfCwlt5zSyP2fpds6paUMsuAWwr)
+- 📄 Know about my experiences [https://drive.google.com/u/0/uc?id=1lrvMMO3L6ybp7j70ZSUK1RyeuJkBEcvb&export=download](https://drive.google.com/u/0/uc?id=1lrvMMO3L6ybp7j70ZSUK1RyeuJkBEcvb&export=download)
 
 - ⚡ Fun fact **I love Coding**
 
