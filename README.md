@@ -1,6 +1,11 @@
                                               
                                                Hi 👋, I'm Nitish Kumar Srivastava
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">Dedicated and detail-oriented Java backend developer having
+proficiency in Java, Mysql, Hibernate, Springboot, Rest API,
+RestAssured, TestNG, CSS, HTML, and Javascript. Eager to apply Java
+backend skills for a leading tech company for achieving organizational
+and personal goals. Special interest in solving problems with
+mathematical insights and algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niths2703&label=Profile%20views&color=0e75b6&style=flat" alt="niths2703" /> </p>
 
