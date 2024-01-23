@@ -7,6 +7,14 @@ backend skills for a leading tech company for achieving organizational
 and personal goals. Special interest in solving problems with
 mathematical insights and algorithms.</h3>
 
+<h3 align="center">Worked as a Java Developer Intern in Instant Systems Inc.</h3>
+<h4 align= "center">Worked in the Java Backend team for Clove Dental
+Project.
+Built APIs for different services and SaaS module using SpringBoot and
+Microservices architecture.
+Wrote Integration Tests for APIs using RestAssured , TestNG and
+ExtentReports.</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niths2703&label=Profile%20views&color=0e75b6&style=flat" alt="niths2703" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niths2703" alt="niths2703" /></a> </p>
