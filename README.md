@@ -7,7 +7,7 @@ backend skills for a leading tech company for achieving organizational
 and personal goals. Special interest in solving problems with
 mathematical insights and algorithms.</h3>
 
-<h3 align="center">Worked as a Java Developer Intern in Instant Systems Inc.</h3>
+<h3 align="center">Worked as a Java Developer Intern in Instant Systems Inc.(6 months)</h3>
 <h4 align= "center">Worked in the Java Backend team for Clove Dental
 Project.
 Built APIs for different services and SaaS module using SpringBoot and
